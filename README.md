@@ -1,5 +1,9 @@
 # Technical Test Frontend Hara Anargya
 
+## Profile Candidate
+* Moch Fikri Khoirurrizal
+* mfikri.khoirurrizal@gmail.com
+
 ## Installation
 * Fork Repo ini
 * Clone Repo ini
